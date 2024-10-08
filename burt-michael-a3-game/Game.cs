@@ -18,7 +18,7 @@ namespace Game10003
         /// </summary>
         public void Setup()
         {
-
+            Window.SetTitle("Test github repo using 2D");
         }
 
         /// <summary>
