@@ -28,7 +28,7 @@ namespace Game10003
         /// </summary>
         public void Update()
         {
-
+            Window.ClearBackground(Color.Green);
         }
     }
 }
